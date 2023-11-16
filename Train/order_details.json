@@ -1,0 +1,169 @@
+[
+  {
+    "user_name": "John Doe",
+    "address": "123 Main St, Cityville",
+    "gender": "M",
+    "occasion": "Birthday",
+    "items": [
+      {
+        "item": "T-shirt",
+        "price": 20,
+        "category": "Clothing",
+        "gender": "M"
+      },
+      {
+        "item": "Necklace",
+        "price": 30,
+        "category": "Jewelry",
+        "gender": "F"
+      }
+    ],
+    "total_price": 50
+  },
+  {
+    "user_name": "Jane Doe",
+    "address": "456 Oak St, Townsville",
+    "gender": "F",
+    "occasion": "Anniversary",
+    "items": [
+      {
+        "item": "Dress",
+        "price": 40,
+        "category": "Clothing",
+        "gender": "F"
+      },
+      {
+        "item": "Wall Art",
+        "price": 18,
+        "category": "Home Decor",
+        "gender": "U"
+      }
+    ],
+    "total_price": 58
+  }
+]
+{
+  "order_number": 15,
+  "user_name": "Abhinav Chebrolu",
+  "mobile": "9515946066",
+  "address": "Opp. Police Station, Main Road, Addanki",
+  "gender": "M",
+  "occasion": "Birthday",
+  "items": [
+    {
+      "item": "Marble Ganesha Idol",
+      "price": 2500.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Terracotta Showpiece",
+      "price": 1200.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Linen Shirt",
+      "price": 3500.0,
+      "category": "Clothing",
+      "gender": "M"
+    },
+    {
+      "item": "Pen",
+      "price": 10.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Bamboo Wall Art",
+      "price": 1800.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Brass Lamp",
+      "price": 2000.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Wooden Wall Clock",
+      "price": 1500.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Glass Vase",
+      "price": 1500.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Copper Pooja Thali",
+      "price": 1000.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Wall Mirror",
+      "price": 2500.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Black T-shirt",
+      "price": 1200.0,
+      "category": "Clothing",
+      "gender": "M"
+    },
+    {
+      "item": "Rustic Wall Shelf",
+      "price": 1800.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Denim Jeans",
+      "price": 2800.0,
+      "category": "Clothing",
+      "gender": "M"
+    },
+    {
+      "item": "Tuxedo Suit",
+      "price": 7000.0,
+      "category": "Clothing",
+      "gender": "M"
+    },
+    {
+      "item": "Plaid Shirt",
+      "price": 1800.0,
+      "category": "Clothing",
+      "gender": "M"
+    },
+    {
+      "item": "Graphic T-shirt",
+      "price": 800.0,
+      "category": "Clothing",
+      "gender": "M"
+    },
+    {
+      "item": "Antique Vase",
+      "price": 3000.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Modern Sculpture",
+      "price": 2000.0,
+      "category": "Home Decor",
+      "gender": "U"
+    },
+    {
+      "item": "Striped Polo Shirt",
+      "price": 1200.0,
+      "category": "Clothing",
+      "gender": "M"
+    }
+  ],
+  "total_price": 39110.0
+}

@@ -1,0 +1,426 @@
+[
+  {
+    "unique_code": "CSSY6034",
+    "item": "Silk Saree",
+    "price": 5000.0,
+    "category": "Clothing",
+    "gender": "F",
+    "stock_count": 28
+  },
+  {
+    "unique_code": "KKWF2452",
+    "item": "Gold Necklace",
+    "price": 15000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "QGVS2601",
+    "item": "Copper Pooja Thali",
+    "price": 1000.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 33
+  },
+  {
+    "unique_code": "HGPU2257",
+    "item": "Handwoven Shawl",
+    "price": 3000.0,
+    "category": "Clothing",
+    "gender": "F",
+    "stock_count": 18
+  },
+  {
+    "unique_code": "LTUD8297",
+    "item": "Silver Anklet",
+    "price": 8000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 35
+  },
+  {
+    "unique_code": "WJDL0271",
+    "item": "Brass Lamp",
+    "price": 2000.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 23
+  },
+  {
+    "unique_code": "CMKW6340",
+    "item": "Cotton Kurti",
+    "price": 2500.0,
+    "category": "Clothing",
+    "gender": "F",
+    "stock_count": 13
+  },
+  {
+    "unique_code": "HKVM0382",
+    "item": "Pearl Earrings",
+    "price": 12000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "XUWY9758",
+    "item": "Wooden Wall Clock",
+    "price": 1500.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 15
+  },
+  {
+    "unique_code": "SEPI8694",
+    "item": "Leather Wallet",
+    "price": 3000.0,
+    "category": "Accessories",
+    "gender": "M",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "BYEN4445",
+    "item": "Chanderi Saree",
+    "price": 6000.0,
+    "category": "Clothing",
+    "gender": "F",
+    "stock_count": 28
+  },
+  {
+    "unique_code": "CHLD1575",
+    "item": "Diamond Ring",
+    "price": 20000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 20
+  },
+  {
+    "unique_code": "ABEN8429",
+    "item": "Marble Ganesha Idol",
+    "price": 2500.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 29
+  },
+  {
+    "unique_code": "GFUD5220",
+    "item": "Linen Shirt",
+    "price": 3500.0,
+    "category": "Clothing",
+    "gender": "M",
+    "stock_count": 10
+  },
+  {
+    "unique_code": "PHRP1252",
+    "item": "Sapphire Necklace",
+    "price": 18000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 30
+  },
+  {
+    "unique_code": "FDVZ2671",
+    "item": "Terracotta Showpiece",
+    "price": 1200.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 8
+  },
+  {
+    "unique_code": "PEMW6053",
+    "item": "Denim Jeans",
+    "price": 2800.0,
+    "category": "Clothing",
+    "gender": "M",
+    "stock_count": 7
+  },
+  {
+    "unique_code": "FHAF6698",
+    "item": "Ruby Bracelet",
+    "price": 16000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "WYOO9075",
+    "item": "Bamboo Wall Art",
+    "price": 1800.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 23
+  },
+  {
+    "unique_code": "VXCI5946",
+    "item": "Leather Backpack",
+    "price": 4000.0,
+    "category": "Accessories",
+    "gender": "U",
+    "stock_count": 35
+  },
+  {
+    "unique_code": "YUBD4517",
+    "item": "Kanjivaram Saree",
+    "price": 8000.0,
+    "category": "Clothing",
+    "gender": "F",
+    "stock_count": 23
+  },
+  {
+    "unique_code": "ZVEB7499",
+    "item": "Platinum Ring",
+    "price": 25000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 30
+  },
+  {
+    "unique_code": "ULNR5553",
+    "item": "Antique Vase",
+    "price": 3000.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 13
+  },
+  {
+    "unique_code": "FYBA0449",
+    "item": "Tuxedo Suit",
+    "price": 7000.0,
+    "category": "Clothing",
+    "gender": "M",
+    "stock_count": 4
+  },
+  {
+    "unique_code": "YNWW3603",
+    "item": "Emerald Necklace",
+    "price": 22000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 35
+  },
+  {
+    "unique_code": "IYUJ4437",
+    "item": "Rustic Wall Shelf",
+    "price": 1800.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 23
+  },
+  {
+    "unique_code": "VLND9729",
+    "item": "Canvas Backpack",
+    "price": 3500.0,
+    "category": "Accessories",
+    "gender": "U",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "BOJU5497",
+    "item": "Banarasi Silk Saree",
+    "price": 7000.0,
+    "category": "Clothing",
+    "gender": "F",
+    "stock_count": 18
+  },
+  {
+    "unique_code": "AHGA7113",
+    "item": "White Gold Bracelet",
+    "price": 18000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 15
+  },
+  {
+    "unique_code": "IFJE5612",
+    "item": "Modern Sculpture",
+    "price": 2000.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 20
+  },
+  {
+    "unique_code": "RJUW1977",
+    "item": "Black T-shirt",
+    "price": 1200.0,
+    "category": "Clothing",
+    "gender": "M",
+    "stock_count": 20
+  },
+  {
+    "unique_code": "HRAH9942",
+    "item": "Silver Bracelet",
+    "price": 8000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 40
+  },
+  {
+    "unique_code": "NRAX3891",
+    "item": "Glass Vase",
+    "price": 1500.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "LSPS9333",
+    "item": "Casual Shoes",
+    "price": 2500.0,
+    "category": "Footwear",
+    "gender": "U",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "SHSN7475",
+    "item": "Plaid Shirt",
+    "price": 1800.0,
+    "category": "Clothing",
+    "gender": "M",
+    "stock_count": 7
+  },
+  {
+    "unique_code": "ITZB5338",
+    "item": "Topaz Necklace",
+    "price": 16000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 15
+  },
+  {
+    "unique_code": "MCFU8830",
+    "item": "Desk Organizer",
+    "price": 2000.0,
+    "category": "Office",
+    "gender": "U",
+    "stock_count": 30
+  },
+  {
+    "unique_code": "RESZ6366",
+    "item": "Printed Scarf",
+    "price": 1000.0,
+    "category": "Clothing",
+    "gender": "F",
+    "stock_count": 33
+  },
+  {
+    "unique_code": "JKYN8482",
+    "item": "Gold Watch",
+    "price": 3500.0,
+    "category": "Accessories",
+    "gender": "U",
+    "stock_count": 40
+  },
+  {
+    "unique_code": "HGRB7334",
+    "item": "Kitchen Blender",
+    "price": 5000.0,
+    "category": "Appliances",
+    "gender": "U",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "SVEM1639",
+    "item": "Striped Polo Shirt",
+    "price": 1200.0,
+    "category": "Clothing",
+    "gender": "M",
+    "stock_count": 5
+  },
+  {
+    "unique_code": "TIYX7909",
+    "item": "Amethyst Ring",
+    "price": 20000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 15
+  },
+  {
+    "unique_code": "ZAKA5778",
+    "item": "Bookshelf",
+    "price": 7000.0,
+    "category": "Furniture",
+    "gender": "U",
+    "stock_count": 30
+  },
+  {
+    "unique_code": "MFEY2867",
+    "item": "Backpack with USB Port",
+    "price": 4000.0,
+    "category": "Accessories",
+    "gender": "U",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "WYVQ6378",
+    "item": "Laptop Stand",
+    "price": 1500.0,
+    "category": "Office",
+    "gender": "U",
+    "stock_count": 20
+  },
+  {
+    "unique_code": "LDUU4403",
+    "item": "Graphic T-shirt",
+    "price": 800.0,
+    "category": "Clothing",
+    "gender": "M",
+    "stock_count": 22
+  },
+  {
+    "unique_code": "JGPQ1455",
+    "item": "Opal Earrings",
+    "price": 16000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 40
+  },
+  {
+    "unique_code": "CCBK8055",
+    "item": "Wall Mirror",
+    "price": 2500.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 23
+  },
+  {
+    "unique_code": "QDDY8019",
+    "item": "Running Shoes",
+    "price": 3000.0,
+    "category": "Footwear",
+    "gender": "U",
+    "stock_count": 25
+  },
+  {
+    "unique_code": "YZAQ2616",
+    "item": "Summer Dress",
+    "price": 1800.0,
+    "category": "Clothing",
+    "gender": "F",
+    "stock_count": 18
+  },
+  {
+    "unique_code": "GJQZ6253",
+    "item": "Bronze Necklace",
+    "price": 22000.0,
+    "category": "Jewelry",
+    "gender": "F",
+    "stock_count": 15
+  },
+  {
+    "unique_code": "LNBA4731",
+    "item": "Pen",
+    "price": 10.0,
+    "category": "Home Decor",
+    "gender": "U",
+    "stock_count": 96
+  },
+  {
+    "unique_code": "TYLY2353",
+    "item": "Mobile Phone",
+    "price": 35000.0,
+    "category": "Other",
+    "gender": "U",
+    "stock_count": 5
+  }
+]
